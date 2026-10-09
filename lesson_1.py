@@ -1,1 +1,0 @@
-print("hello welcome to coventry! environment is ready.")
